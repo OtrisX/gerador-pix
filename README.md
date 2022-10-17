@@ -1,0 +1,1 @@
+# Gerador QRcode de pix estático feito em NODE
